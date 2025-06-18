@@ -1,7 +1,7 @@
 # Smarter WhatsApp Bots: Prevent AI Hallucinations with Knowledge AI
 A node application that connects AI Studio WhatsApp agents with Slack to allow for live human customer support agents directly from Slack.
 
-> You can find full step-by-step instructions on the [Vonage Developer Blog](https://developer.vonage.com/en/blog
+> You can find full step-by-step instructions on the [Vonage Developer Blog](https://developer.vonage.com/en/blog)
 
 ## Prerequisites
 1. [Vonage Developer Account](https://developer.vonage.com/sign-up)
